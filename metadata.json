@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard de Vendas KRS",
+  "description": "Dashboard interativo para simulação de metas de vendas, custos e lucro com visualização estilo velocímetro.",
+  "requestFramePermissions": []
+}
